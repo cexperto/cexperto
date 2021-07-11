@@ -1,4 +1,29 @@
-### Hi there 👋
+ <img align="center" src="https://i.imgur.com/XGELgMA.png?1" />
+ 
+### Hi there I'm Andres Ayala 👋
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C)](https://www.linkedin.com/in/cexperto/)
+<a href="https://platzi.com/p/andresayala/" style="margin-right:10px"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white"/>
+</a>
+
+A little more about me...
+
+I'm software engineer I like to think that an idea can change the world. I'm passionate for new technologies, i like the music, movies, series, workout, i love workteam and I never stop learning, let's work together, contact me andresayaladev@gmail.com
+
+    
+![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
+
+![Python](https://img.shields.io/badge/_-Python-292e33?style=flat-square&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/_-Django-292e33?style=flat-square&logo=Django&logoColor=fff)
+![Flask](https://img.shields.io/badge/_-Flask-292e33?style=flat-square&logo=Flask&logoColor=fff)
+
+![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
+
+![MySQL](https://img.shields.io/badge/_-MySQL-292e33?style=flat-square&logo=MySQL&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/_-PostgreSQL-292e33?style=flat-square&logo=PostgreSQL&logoColor=fff)
+
+![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 
 <!--
 **cexperto/cexperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
