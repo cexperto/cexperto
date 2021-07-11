@@ -1,6 +1,6 @@
  <img align="center" src="https://i.imgur.com/XGELgMA.png?1" />
  
-### Hi there I'm Andres Ayala 👋
+### <center> Hi there I'm Andres Ayala 👋
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C)](https://www.linkedin.com/in/cexperto/)
 <a href="https://platzi.com/p/andresayala/" style="margin-right:10px"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white"/>
@@ -8,8 +8,9 @@
 
 A little more about me...
 
-I'm software engineer I like to think that an idea can change the world. I'm passionate for new technologies, i like the music, movies, series, workout, i love workteam and I never stop learning, let's work together, contact me andresayaladev@gmail.com
-
+I'm a software engineer. I like to think that an idea can change the world. I'm passionate for new technologies, I like music, movies, series and MMA! I also  love teamwork and I never stop learning.<br> 
+Let's work together! Feel free to contact me at andresayaladev@gmail.com
+<br>
     
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github)
@@ -24,6 +25,23 @@ I'm software engineer I like to think that an idea can change the world. I'm pas
 ![PostgreSQL](https://img.shields.io/badge/_-PostgreSQL-292e33?style=flat-square&logo=PostgreSQL&logoColor=fff)
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
+
+
+<h3>Here are the languages more I use:</h3>
+<br>
+<div align="center">
+<a href="https://github.com/cexperto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cexperto&theme=dracula&count_private=true&hide=css,blade" alt="Andrés's GitHub Stats" />
+</a>
+<br>
+<br>
+<h3>And my GitHub stats:</h3>
+<br>
+<a href="https://github.com/cexperto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cexperto&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="Andrés's GitHub Stats"/>
+</a>
+</div>
+
 
 <!--
 **cexperto/cexperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
