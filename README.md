@@ -17,9 +17,6 @@ Let's work together! Feel free to contact me at andresayaladev@gmail.com
 <br>
 <br>
 
-### Projects
-
-How platzi student i developed with other amazong 
 
     
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
