@@ -1,10 +1,10 @@
- <img align="center" src="https://i.imgur.com/XGELgMA.png?1"/>
+ <img align="center" src=""/>
  
 <br>
 <p>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C)](https://www.linkedin.com/in/cexperto/)
-<a href="https://platzi.com/p/andresayala/" style="margin-right:10px"><img src=""/>
+<a href="https://platzi.com/p/andresayala/" style="margin-right:10px"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white"/>
 </a>
 
 </p>
